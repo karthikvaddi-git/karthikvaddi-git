@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning coding
 - 🌱 I’m currently learning django
 - 💞️ I’m looking to collaborate on beginner friendly projects
-- 📫 How to reach me instagramid-karthik__vaddi
+- 📫 How to reach me instagram id-karthik__vaddi
 
 <!---
 karthikvaddi-git/karthikvaddi-git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
